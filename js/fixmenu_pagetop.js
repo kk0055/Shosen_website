@@ -1,7 +1,4 @@
-/*
- fix menu
- 2017/01/26 crytus corporation.
-*/
+
 function fm_hasClass(e, c)
 {
     var classes = e.className;
